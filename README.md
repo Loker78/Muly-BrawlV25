@@ -2,7 +2,7 @@
 
 Experimental Brawl Stars v25 server emulator written in Python.
 
-![ScreenShot](https://media.discordapp.net/attachments/902802229566779413/906136413165223986/Screenshot_20211105-134634.png) 
+![ScreenShot](https://media.discordapp.net/attachments/880853466371735564/906138581498757120/Screenshot_20211105-134634.png) 
 
 ### Requirements:
 - Python 3.7 or higher
